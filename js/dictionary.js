@@ -8,7 +8,7 @@
     //let mean = myDicionary[key];
     //console.log(`key: ${key} mean: ${mean}`);
 //}
-let userInfo = {
+/*et userInfo = {
     Name: "Ilya",
     Age: 17,
     adress: {
@@ -18,9 +18,9 @@ let userInfo = {
     }
 }
 for (let key in userInfo){
-    console.log(key)
+    console.log(key,)
     console.log(userInfo[key])
 
 
-}
+}*/
 
